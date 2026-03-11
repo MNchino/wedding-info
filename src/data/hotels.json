@@ -1,0 +1,90 @@
+[
+  {
+    "id": "hotel-0",
+    "name": "Holiday Inn Express & Suites Columbus - Polaris Parkway by IHG",
+    "rating": 4.6,
+    "price": "$340 total",
+    "priceValue": 340,
+    "distance": "8 mins away",
+    "distanceValue": 8,
+    "url": "https://www.google.com/maps/search/Holiday+Inn+Express+%26+Suites+Columbus+-+Polaris+Parkway+by+IHG+Westerville+OH",
+    "isPinned": true
+  },
+  {
+    "id": "hotel-1",
+    "name": "Fairfield by Marriott Inn & Suites Columbus Polaris",
+    "rating": 4.5,
+    "price": "$310 total",
+    "priceValue": 310,
+    "distance": "9 mins away",
+    "distanceValue": 9,
+    "url": "https://www.google.com/maps/search/Fairfield+by+Marriott+Inn+%26+Suites+Columbus+Polaris+Westerville+OH",
+    "isPinned": true
+  },
+  {
+    "id": "hotel-2",
+    "name": "Hilton Garden Inn Columbus/Polaris",
+    "rating": 4.4,
+    "price": "$365 total",
+    "priceValue": 365,
+    "distance": "10 mins away",
+    "distanceValue": 10,
+    "url": "https://www.google.com/maps/search/Hilton+Garden+Inn+Columbus%2FPolaris+Westerville+OH",
+    "isPinned": false
+  },
+  {
+    "id": "hotel-3",
+    "name": "Residence Inn by Marriott Columbus Polaris",
+    "rating": 4.7,
+    "price": "$420 total",
+    "priceValue": 420,
+    "distance": "11 mins away",
+    "distanceValue": 11,
+    "url": "https://www.google.com/maps/search/Residence+Inn+by+Marriott+Columbus+Polaris+Westerville+OH",
+    "isPinned": false
+  },
+  {
+    "id": "hotel-4",
+    "name": "Hampton Inn & Suites Columbus Polaris",
+    "rating": 4.3,
+    "price": "$295 total",
+    "priceValue": 295,
+    "distance": "9 mins away",
+    "distanceValue": 9,
+    "url": "https://www.google.com/maps/search/Hampton+Inn+%26+Suites+Columbus+Polaris+Westerville+OH",
+    "isPinned": false
+  },
+  {
+    "id": "hotel-5",
+    "name": "Homewood Suites by Hilton Columbus/Polaris",
+    "rating": 4.5,
+    "price": "$380 total",
+    "priceValue": 380,
+    "distance": "10 mins away",
+    "distanceValue": 10,
+    "url": "https://www.google.com/maps/search/Homewood+Suites+by+Hilton+Columbus%2FPolaris+Westerville+OH",
+    "isPinned": false
+  },
+  {
+    "id": "hotel-6",
+    "name": "Hyatt Place Columbus/Polaris",
+    "rating": 4.4,
+    "price": "$330 total",
+    "priceValue": 330,
+    "distance": "12 mins away",
+    "distanceValue": 12,
+    "url": "https://www.google.com/maps/search/Hyatt+Place+Columbus%2FPolaris+Westerville+OH",
+    "isPinned": false
+  },
+  {
+    "id": "hotel-7",
+    "name": "Drury Inn & Suites Columbus Polaris",
+    "rating": 4.8,
+    "price": "$315 total",
+    "priceValue": 315,
+    "distance": "11 mins away",
+    "distanceValue": 11,
+    "url": "https://www.google.com/maps/search/Drury+Inn+%26+Suites+Columbus+Polaris+Westerville+OH",
+    "isPinned": false
+  }
+]
